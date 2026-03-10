@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Detector de Mensajes"
+        android:text="Revelador de Mensajes"
         android:textSize="24sp"
         android:textStyle="bold" />
 
